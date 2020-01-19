@@ -1,1 +1,2 @@
-# release-config-me
+# 个人配置
+1. ico
