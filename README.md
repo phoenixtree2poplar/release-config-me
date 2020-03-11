@@ -5,3 +5,4 @@
 1. [mysql](https://phoenixtree2poplar.github.io/2019/08/25/mysql/)
 1. [maven](https://phoenixtree2poplar.github.io/2018/08/31/maven%E9%85%8D%E7%BD%AE/)
 1. [idea](https://phoenixtree2poplar.github.io/2019/08/25/idea/)
+1. notepad++主题obsidian
